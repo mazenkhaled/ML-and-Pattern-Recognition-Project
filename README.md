@@ -4,4 +4,5 @@ This projects consists of 2 milestones, each deals with the same data. First mil
 Documentation Reports : https://drive.google.com/drive/folders/1Vnvgrz8t5bxDpvvZFJN6Nq2hEyaVq8eq?usp=sharing
 
 Kaggle competitions Milestone 1: https://www.kaggle.com/c/pr-21-competition-regression/overview
+
 Kaggle competitions Milestone 2: https://www.kaggle.com/c/pr-21-competition-classification/overview
